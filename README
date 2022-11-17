@@ -1,0 +1,6 @@
+Currently this project just includes unmodified datasets from 2019 and 2022. This data should cover 2017, 2018, early 2019, 2020, 2021 and most of 2022. There are overlaps.
+The ODS file (which covers 2017-2019) also includes which chain each restaurant is believed to belong to. This was coded by humans.
+Data wrangling steps to take:
+1) Merge datasets and remove duplicates
+2) Assign new restaurants to chains if necessary
+3) Check for errors

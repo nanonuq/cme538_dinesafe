@@ -6,5 +6,5 @@ There are jupyter notebooks and associated outputs and inputs for:
 - Exploratory data analysis on geography
 - Exploratory data analysis on textual analysis
 - Exploratory data analysis on aggregation by chain respectively
-- Modeling of a restaurant failure prediction model (found in the longitudinal data EDA notebook)
+- Modeling of a restaurant failure prediction model
 - Modeling of a health infraction prediction model
